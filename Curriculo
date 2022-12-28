@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Currículo </title>
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <div id="Identificação">
+            <h1> Matheus A. Guedes</h1>
+            <p>
+            <b>Cidade:</b> Engenheiro Coelho<br>
+            <b>Telefone:</b> <a href="tel:+5519996737158"> +5519996737158</a><br>
+            <b>Email:</b> <a href="mailto:matt.ag@hotmail.com"> matt.ag@hotmail.com</a>
+            </p>
+            <a href="#objetivo">Objetivo</a> I
+            <a href="#formação">Formação</a> I
+            <a href="#experiência">Experiência</a> I
+            <a href="#habilidades">Habilidades</a>
+            <hr width="100%">
+        </div>
+        <div id="objetivo">
+            <h2> Objetivo </h2>
+            <p>
+                Conseguir fazer um site.
+            </p>
+        </div>
+        <br><br>
+        <div id="formação">
+            <h2> Formação </h2>
+            <p>
+                <b> Graduação em Licenciatura em Música </b><br>
+            UNASP - Centro Universitário Adventista de São Paulo.<br>
+
+            <br>
+
+                <b> Graduação em Matemática - Licenciatura e Bacharel</b><br>
+            UNESP - Universidade Estadual de São Paulo.<br>
+
+            <br>
+
+                <b> Pós Graduação - Regência e docência no Ensino Superior</b><br>
+            UNASP - Centro Universitário Adventista de São Paulo.<br>
+
+            </p>
+        </div>
+        <br><br><br>
+        <div id="experiência">
+            <h2>Experiência</h2>
+            <p>
+                <img src="./images/logoU.jfif" alt="Logo do Colégio UNASP" width="50" height="50">
+                <b> Professor Colégio Unasp</b> <a href=https://www.unasp.br/ target="_blank">Site</a><br>
+                Professor de Ensino fundamental I e II.
+
+                <br>
+                <br>
+                <br>
+
+                <img src="./images/logoC.jfif" alt="Logo da escola E.E. Antônio Alves Cavalheiro" width="50" height="50">
+                <b> Professor E.E Antônio Alves Cavalheiro</b>
+                Professor eventual de EF I, II e EM.
+            </p>
+        </div>
+        <br><br><br>
+        <div id="habilidades">
+            <h2> Habilidades </h2>
+            <ul>
+                <li> Planejamento de aulas</li>
+                <li> Boa comunicação</li>
+                <li> Metodologias Ativas</li>
+                <li> Organização</li>
+            </ul>
+        </div>
+    </body>
+
+
+
+</html>
